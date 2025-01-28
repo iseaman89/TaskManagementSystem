@@ -255,32 +255,34 @@ namespace UserService.Migrations
                         {
                             Id = "8e448afa-f008-446e-a52f-13c449803c2e",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "82448558-64b3-4ecc-85d9-aa9447f944d8",
+                            ConcurrencyStamp = "0838bb7b-71ef-47f7-9efa-01bdcaa61f30",
                             Email = "admin@tms.com",
                             EmailConfirmed = false,
                             FirstName = "System",
                             LastName = "Admin",
                             LockoutEnabled = false,
-                            NormalizedUserName = "ADMINISTRATOR",
-                            PasswordHash = "AQAAAAIAAYagAAAAEJ58qSMt/2UG2beps1AGmHEqYURBGJsnPa2KPLjld6LtQjVce/6WZKUZC6wAuQ1XxQ==",
+                            NormalizedEmail = "ADMIN@TMS.COM",
+                            NormalizedUserName = "ADMIN@TMS.COM",
+                            PasswordHash = "AQAAAAIAAYagAAAAEC0IQBfQcI64Wn32JHhvdgdlJ678mjetlw4oH5BC3piVlmZMNf3fs8rfULXQHYbQOw==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "55c94067-f212-45f5-82f8-e30fed6357f1",
-                            TwoFactorEnabled = false
+                            SecurityStamp = "b37405d8-3a90-4fb4-8be3-1622e6136b9f",
+                            TwoFactorEnabled = false,
+                            UserName = "admin@tms.com"
                         },
                         new
                         {
                             Id = "30a24107-d279-4e37-96fd-01af5b38cb27",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "4a46eed0-924e-4b73-9e0e-033a4bf65a3a",
+                            ConcurrencyStamp = "b090802d-e607-4ad4-b432-887b36c7b001",
                             Email = "user@tms.com",
                             EmailConfirmed = false,
                             FirstName = "System",
                             LastName = "User",
                             LockoutEnabled = false,
                             NormalizedUserName = "USER",
-                            PasswordHash = "AQAAAAIAAYagAAAAEI62XYMyvM7Vy35OH3yJ97AlH1Wte4ajK5y3K+Jxf+6MvonYpUy0ZIogW64d5cqVCQ==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEKfgfzebDbPnQF/1/psrL9mszlVBAlM5nSZ6d8Xlt+K/ucq5NhQVp5b8qlUuHeivNw==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "164c0bdc-ff69-4974-8a32-0d7226c98b5b",
+                            SecurityStamp = "9fce24e8-47c7-48c3-b4c4-82d2e1484b95",
                             TwoFactorEnabled = false
                         });
                 });

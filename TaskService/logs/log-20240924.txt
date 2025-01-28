@@ -1,0 +1,14 @@
+2024-09-24 15:42:24.159 +02:00 [INF] Now listening on: https://localhost:7245
+2024-09-24 15:42:24.182 +02:00 [INF] Now listening on: http://localhost:5159
+2024-09-24 15:42:24.184 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-24 15:42:24.184 +02:00 [INF] Hosting environment: Development
+2024-09-24 15:42:24.184 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-09-24 15:57:22.859 +02:00 [INF] Application is shutting down...
+2024-09-24 17:21:39.434 +02:00 [ERR] Failed executing DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "Tasks" ADD CONSTRAINT "FK_Tasks_Topics_TopicId" FOREIGN KEY ("TopicId") REFERENCES "Topics" ("Id") ON DELETE CASCADE;
+2024-09-24 17:24:32.151 +02:00 [INF] Now listening on: https://localhost:7245
+2024-09-24 17:24:32.183 +02:00 [INF] Now listening on: http://localhost:5159
+2024-09-24 17:24:32.188 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-24 17:24:32.189 +02:00 [INF] Hosting environment: Development
+2024-09-24 17:24:32.189 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-09-24 19:01:54.175 +02:00 [INF] Application is shutting down...

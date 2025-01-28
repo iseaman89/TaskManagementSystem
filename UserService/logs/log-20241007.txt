@@ -1,0 +1,9 @@
+2024-10-07 12:54:41.118 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 13:01:10.593 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 13:27:59.042 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 14:33:31.268 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 16:52:48.514 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 19:10:55.808 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 19:16:00.540 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 19:28:01.020 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-07 20:34:11.221 +02:00 [INF] Application is shutting down...

@@ -1,0 +1,112 @@
+2024-09-26 15:07:47.656 +02:00 [INF] Now listening on: https://localhost:7245
+2024-09-26 15:07:47.679 +02:00 [INF] Now listening on: http://localhost:5159
+2024-09-26 15:07:47.681 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-26 15:07:47.681 +02:00 [INF] Hosting environment: Development
+2024-09-26 15:07:47.681 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-09-26 18:02:29.611 +02:00 [INF] Application is shutting down...
+2024-09-26 18:02:48.387 +02:00 [INF] Now listening on: https://localhost:7245
+2024-09-26 18:02:48.411 +02:00 [INF] Now listening on: http://localhost:5159
+2024-09-26 18:02:48.413 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-26 18:02:48.413 +02:00 [INF] Hosting environment: Development
+2024-09-26 18:02:48.413 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-09-26 18:09:18.107 +02:00 [ERR] Error Performing GET in GetTopics
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[TaskService.Data.TopicModel, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[TaskService.Models.Tasks.TaskReadOnlyDto, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+TopicModel -> TaskReadOnlyDto
+TaskService.Data.TopicModel -> TaskService.Models.Tasks.TaskReadOnlyDto
+   at lambda_method108(Closure, TopicModel, TaskReadOnlyDto, ResolutionContext)
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   at TaskService.Controllers.TopicController.GetTopics(String userId) in /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService/Controllers/TopicController.cs:line 35
+2024-09-26 18:09:18.473 +02:00 [ERR] Error Performing GET in GetTopics
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[TaskService.Data.TopicModel, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[TaskService.Models.Tasks.TaskReadOnlyDto, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+TopicModel -> TaskReadOnlyDto
+TaskService.Data.TopicModel -> TaskService.Models.Tasks.TaskReadOnlyDto
+   at lambda_method108(Closure, TopicModel, TaskReadOnlyDto, ResolutionContext)
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   at TaskService.Controllers.TopicController.GetTopics(String userId) in /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService/Controllers/TopicController.cs:line 35
+2024-09-26 18:10:18.315 +02:00 [ERR] Error Performing GET in GetTopics
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[TaskService.Data.TopicModel, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[TaskService.Models.Tasks.TaskReadOnlyDto, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+TopicModel -> TaskReadOnlyDto
+TaskService.Data.TopicModel -> TaskService.Models.Tasks.TaskReadOnlyDto
+   at lambda_method108(Closure, TopicModel, TaskReadOnlyDto, ResolutionContext)
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   at TaskService.Controllers.TopicController.GetTopics(String userId) in /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService/Controllers/TopicController.cs:line 35
+2024-09-26 18:10:18.603 +02:00 [ERR] Error Performing GET in GetTopics
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[TaskService.Data.TopicModel, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[TaskService.Models.Tasks.TaskReadOnlyDto, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+TopicModel -> TaskReadOnlyDto
+TaskService.Data.TopicModel -> TaskService.Models.Tasks.TaskReadOnlyDto
+   at lambda_method108(Closure, TopicModel, TaskReadOnlyDto, ResolutionContext)
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   at TaskService.Controllers.TopicController.GetTopics(String userId) in /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService/Controllers/TopicController.cs:line 35
+2024-09-26 18:11:29.257 +02:00 [ERR] Error Performing GET in GetTopics
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[TaskService.Data.TopicModel, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[TaskService.Models.Tasks.TaskReadOnlyDto, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+TopicModel -> TaskReadOnlyDto
+TaskService.Data.TopicModel -> TaskService.Models.Tasks.TaskReadOnlyDto
+   at lambda_method108(Closure, TopicModel, TaskReadOnlyDto, ResolutionContext)
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   at TaskService.Controllers.TopicController.GetTopics(String userId) in /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService/Controllers/TopicController.cs:line 35
+2024-09-26 18:12:34.339 +02:00 [ERR] Error Performing GET in GetTopics
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[TaskService.Data.TopicModel, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[TaskService.Models.Tasks.TaskReadOnlyDto, TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+TopicModel -> TaskReadOnlyDto
+TaskService.Data.TopicModel -> TaskService.Models.Tasks.TaskReadOnlyDto
+   at lambda_method108(Closure, TopicModel, TaskReadOnlyDto, ResolutionContext)
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method17(Closure, Object, IEnumerable`1, ResolutionContext)
+   at TaskService.Controllers.TopicController.GetTopics(String userId)
+2024-09-26 18:21:02.083 +02:00 [INF] Now listening on: https://localhost:7245
+2024-09-26 18:21:02.177 +02:00 [INF] Now listening on: http://localhost:5159
+2024-09-26 18:21:02.180 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-26 18:21:02.180 +02:00 [INF] Hosting environment: Development
+2024-09-26 18:21:02.180 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService

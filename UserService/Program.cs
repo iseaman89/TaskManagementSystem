@@ -14,7 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-var connString = builder.Configuration.GetConnectionString("TSMDbConnection");
+var connString = builder.Configuration.GetConnectionString("TMSDbConnection");
 builder.Services.AddDbContext<UserDbContext>(options => options.UseNpgsql(connString));
 
 builder.Services.AddIdentityCore<ApiUser>()

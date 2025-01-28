@@ -33,7 +33,9 @@ public class UserDbContext : IdentityDbContext<ApiUser>
             {
                 Id = "8e448afa-f008-446e-a52f-13c449803c2e",
                 Email = "admin@tms.com", 
-                NormalizedUserName = "ADMINISTRATOR", 
+                NormalizedEmail = "ADMIN@TMS.COM",
+                UserName = "admin@tms.com",
+                NormalizedUserName = "ADMIN@TMS.COM",
                 FirstName = "System", 
                 LastName = "Admin", 
                 PasswordHash = hasher.HashPassword(null, "t49SkGh64")

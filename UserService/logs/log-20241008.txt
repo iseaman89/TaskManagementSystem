@@ -1,0 +1,10 @@
+2024-10-08 20:30:25.863 +02:00 [INF] Now listening on: https://localhost:7047
+2024-10-08 20:30:25.884 +02:00 [INF] Now listening on: http://localhost:5047
+2024-10-08 20:30:25.885 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-08 20:30:25.885 +02:00 [INF] Hosting environment: Development
+2024-10-08 20:30:25.885 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/UserService
+2024-10-08 20:30:46.314 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-08 20:42:03.406 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-08 21:33:42.232 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-08 22:37:50.844 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-10-08 23:01:23.781 +02:00 [INF] Application is shutting down...

@@ -6,11 +6,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskService", "TaskService\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService", "NotificationService\NotificationService.csproj", "{303A5F29-64E2-4CB9-B8ED-DFA0847383A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementClient", "TaskManagementClient\TaskManagementClient.csproj", "{F479C0AB-DCC4-4B69-8652-FBBED780BA5A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{A4440855-58C4-4C46-8C32-5605128110E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceTest", "UserServiceTest\UserServiceTest.csproj", "{ADDB8D0B-4919-40FC-92BF-F2E7709E61AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagmentSystem.Data.Shared", "TaskManagmentSystem.Data.Shared\TaskManagmentSystem.Data.Shared.csproj", "{43F00A73-E8F9-42D7-AE0A-1680B2267B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskServiceTest", "TaskServiceTest\TaskServiceTest.csproj", "{6FD3B399-255D-43DF-8C5B-1FA281E77F95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,16 +32,21 @@ Global
 		{303A5F29-64E2-4CB9-B8ED-DFA0847383A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{303A5F29-64E2-4CB9-B8ED-DFA0847383A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{303A5F29-64E2-4CB9-B8ED-DFA0847383A6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F479C0AB-DCC4-4B69-8652-FBBED780BA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F479C0AB-DCC4-4B69-8652-FBBED780BA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F479C0AB-DCC4-4B69-8652-FBBED780BA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F479C0AB-DCC4-4B69-8652-FBBED780BA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ADDB8D0B-4919-40FC-92BF-F2E7709E61AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADDB8D0B-4919-40FC-92BF-F2E7709E61AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADDB8D0B-4919-40FC-92BF-F2E7709E61AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADDB8D0B-4919-40FC-92BF-F2E7709E61AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F00A73-E8F9-42D7-AE0A-1680B2267B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F00A73-E8F9-42D7-AE0A-1680B2267B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F00A73-E8F9-42D7-AE0A-1680B2267B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F00A73-E8F9-42D7-AE0A-1680B2267B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD3B399-255D-43DF-8C5B-1FA281E77F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD3B399-255D-43DF-8C5B-1FA281E77F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD3B399-255D-43DF-8C5B-1FA281E77F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD3B399-255D-43DF-8C5B-1FA281E77F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{ADDB8D0B-4919-40FC-92BF-F2E7709E61AA} = {A4440855-58C4-4C46-8C32-5605128110E1}
+		{6FD3B399-255D-43DF-8C5B-1FA281E77F95} = {A4440855-58C4-4C46-8C32-5605128110E1}
 	EndGlobalSection
 EndGlobal

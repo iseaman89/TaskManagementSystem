@@ -1,0 +1,37 @@
+2024-08-21 12:33:44.598 +02:00 [INF] Now listening on: https://localhost:7245
+2024-08-21 12:33:44.627 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 12:33:44.634 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 12:33:44.634 +02:00 [INF] Hosting environment: Development
+2024-08-21 12:33:44.634 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-08-21 12:43:28.073 +02:00 [INF] Application is shutting down...
+2024-08-21 12:43:41.220 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 12:43:41.270 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 12:43:41.270 +02:00 [INF] Hosting environment: Development
+2024-08-21 12:43:41.270 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-08-21 12:45:14.903 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 12:45:14.947 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 12:45:14.947 +02:00 [INF] Hosting environment: Development
+2024-08-21 12:45:14.947 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-08-21 12:47:31.159 +02:00 [INF] Application is shutting down...
+2024-08-21 12:47:39.240 +02:00 [INF] Now listening on: https://localhost:7245
+2024-08-21 12:47:39.262 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 12:47:39.263 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 12:47:39.264 +02:00 [INF] Hosting environment: Development
+2024-08-21 12:47:39.264 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-08-21 12:51:39.918 +02:00 [INF] Application is shutting down...
+2024-08-21 12:52:26.064 +02:00 [INF] Now listening on: https://localhost:7245
+2024-08-21 12:52:26.086 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 12:52:26.088 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 12:52:26.088 +02:00 [INF] Hosting environment: Development
+2024-08-21 12:52:26.088 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-08-21 12:57:25.505 +02:00 [INF] Application is shutting down...
+2024-08-21 12:57:37.387 +02:00 [INF] Now listening on: https://localhost:7245
+2024-08-21 12:57:37.413 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 12:57:37.415 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 12:57:37.415 +02:00 [INF] Hosting environment: Development
+2024-08-21 12:57:37.415 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-08-21 13:02:34.981 +02:00 [INF] Now listening on: https://localhost:7245
+2024-08-21 13:02:35.005 +02:00 [INF] Now listening on: http://localhost:5159
+2024-08-21 13:02:35.006 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-21 13:02:35.007 +02:00 [INF] Hosting environment: Development
+2024-08-21 13:02:35.007 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService

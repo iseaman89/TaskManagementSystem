@@ -1,0 +1,41 @@
+2024-06-13 21:39:57.219 +02:00 [INF] Now listening on: http://localhost:5159
+2024-06-13 21:39:57.265 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-13 21:39:57.265 +02:00 [INF] Hosting environment: Development
+2024-06-13 21:39:57.265 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-06-13 21:43:27.405 +02:00 [INF] Application is shutting down...
+2024-06-13 21:43:37.199 +02:00 [INF] Now listening on: http://localhost:5159
+2024-06-13 21:43:37.241 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-13 21:43:37.242 +02:00 [INF] Hosting environment: Development
+2024-06-13 21:43:37.242 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-06-13 21:47:22.553 +02:00 [INF] Application is shutting down...
+2024-06-13 21:47:30.740 +02:00 [INF] Now listening on: http://localhost:5159
+2024-06-13 21:47:30.785 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-13 21:47:30.785 +02:00 [INF] Hosting environment: Development
+2024-06-13 21:47:30.786 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-06-13 21:49:34.920 +02:00 [INF] Application is shutting down...
+2024-06-13 21:49:45.034 +02:00 [INF] Now listening on: http://localhost:5159
+2024-06-13 21:49:45.080 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-13 21:49:45.080 +02:00 [INF] Hosting environment: Development
+2024-06-13 21:49:45.080 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-06-13 21:53:07.003 +02:00 [INF] Application is shutting down...
+2024-06-13 22:00:02.643 +02:00 [INF] Now listening on: http://localhost:5159
+2024-06-13 22:00:02.691 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-13 22:00:02.691 +02:00 [INF] Hosting environment: Development
+2024-06-13 22:00:02.691 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-06-13 22:05:30.369 +02:00 [INF] Application is shutting down...
+2024-06-13 22:05:38.892 +02:00 [INF] Now listening on: http://localhost:5159
+2024-06-13 22:05:38.947 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-13 22:05:38.947 +02:00 [INF] Hosting environment: Development
+2024-06-13 22:05:38.947 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-06-13 22:07:09.923 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-06-13 22:07:09.939 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-13 22:09:13.828 +02:00 [INF] Application is shutting down...

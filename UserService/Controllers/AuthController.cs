@@ -39,6 +39,7 @@ namespace UserService.Controllers
             {
                 var user = _mapper.Map<ApiUser>(userDto);
                 user.Email = userDto.Email;
+                user.UserName = userDto.FirstName + userDto.LastName;
                 var result = await _userManager.CreateAsync(user, userDto.Password);
 
                 if (result.Succeeded == false)
@@ -67,7 +68,7 @@ namespace UserService.Controllers
             _logger.LogInformation($"Login Attempt for {userDto.Email} ");
             try
             {
-                var user = await _userManager.FindByNameAsync(userDto.Email);
+                var user = await _userManager.FindByEmailAsync(userDto.Email);
                 var passwordValid = await _userManager.CheckPasswordAsync(user, userDto.Password);
 
                 if (user == null || passwordValid == false)
@@ -79,7 +80,8 @@ namespace UserService.Controllers
 
                 var response = new AuthResponse
                 {
-                    Email = userDto.Email,
+                    FirstName = user.FirstName,
+                    LastName = user.LastName,
                     Token = tokenString,
                     UserId = user.Id,
                 };

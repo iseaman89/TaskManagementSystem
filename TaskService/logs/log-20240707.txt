@@ -1,0 +1,5 @@
+2024-07-07 22:29:18.383 +02:00 [INF] Now listening on: http://localhost:5159
+2024-07-07 22:29:18.432 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-07 22:29:18.433 +02:00 [INF] Hosting environment: Development
+2024-07-07 22:29:18.433 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/TaskService
+2024-07-07 22:38:35.245 +02:00 [INF] Application is shutting down...

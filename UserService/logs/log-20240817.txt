@@ -1,0 +1,48 @@
+2024-08-17 12:24:36.446 +02:00 [INF] Now listening on: https://localhost:7047
+2024-08-17 12:24:36.466 +02:00 [INF] Now listening on: http://localhost:5047
+2024-08-17 12:24:36.467 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-17 12:24:36.467 +02:00 [INF] Hosting environment: Development
+2024-08-17 12:24:36.467 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/UserService
+2024-08-17 12:24:50.158 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 12:32:32.405 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 12:32:54.725 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 12:33:14.356 +02:00 [INF] Registration Attempt for test@gmail.com 
+2024-08-17 13:53:35.535 +02:00 [INF] Login Attempt for test@gmail.comd 
+2024-08-17 13:54:09.085 +02:00 [INF] Login Attempt for test@gmail.comd 
+2024-08-17 14:03:29.797 +02:00 [INF] Login Attempt for test@gmail.comd 
+2024-08-17 14:03:48.932 +02:00 [INF] Login Attempt for test@gmail.comd 
+2024-08-17 14:03:57.193 +02:00 [INF] Login Attempt for test@gmail.comd 
+2024-08-17 14:04:44.635 +02:00 [INF] Login Attempt for test@gmail.comd 
+2024-08-17 14:04:49.805 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 14:13:28.306 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 14:34:22.655 +02:00 [INF] Application is shutting down...
+2024-08-17 17:22:11.304 +02:00 [INF] Now listening on: https://localhost:7047
+2024-08-17 17:22:11.325 +02:00 [INF] Now listening on: http://localhost:5047
+2024-08-17 17:22:11.326 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-17 17:22:11.326 +02:00 [INF] Hosting environment: Development
+2024-08-17 17:22:11.326 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/UserService
+2024-08-17 17:22:20.817 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:12:33.800 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:17:15.714 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:19:10.178 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:21:04.219 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:21:41.627 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:22:05.412 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:24:07.670 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:24:43.542 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:25:33.219 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:27:00.359 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:27:22.000 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 18:32:39.465 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 19:05:24.174 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 20:32:47.829 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 20:35:48.348 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 20:45:34.685 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 20:45:59.438 +02:00 [INF] Login Attempt for test@gmail.com 
+2024-08-17 20:49:06.088 +02:00 [INF] Application is shutting down...
+2024-08-17 20:49:16.186 +02:00 [INF] Now listening on: https://localhost:7047
+2024-08-17 20:49:16.207 +02:00 [INF] Now listening on: http://localhost:5047
+2024-08-17 20:49:16.208 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-17 20:49:16.208 +02:00 [INF] Hosting environment: Development
+2024-08-17 20:49:16.208 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/UserService
+2024-08-17 21:33:00.239 +02:00 [INF] Application is shutting down...

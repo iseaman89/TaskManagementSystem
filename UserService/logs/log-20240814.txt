@@ -1,0 +1,22 @@
+2024-08-14 20:40:49.401 +02:00 [INF] Now listening on: https://localhost:7047
+2024-08-14 20:40:49.427 +02:00 [INF] Now listening on: http://localhost:5047
+2024-08-14 20:40:49.427 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-14 20:40:49.428 +02:00 [INF] Hosting environment: Development
+2024-08-14 20:40:49.428 +02:00 [INF] Content root path: /Users/iseaman/RiderProjects/TaskManagementSystem/UserService
+2024-08-14 20:41:23.499 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:03:52.288 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:03:59.140 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:04:33.546 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:08:44.713 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:08:46.586 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:11:47.907 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:12:36.415 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:21:40.110 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:27:16.364 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:30:12.773 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:31:24.169 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 21:32:42.588 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 22:47:11.844 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 22:47:17.535 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 22:47:28.712 +02:00 [INF] Login Attempt for admin@tms.com 
+2024-08-14 22:47:48.037 +02:00 [INF] Application is shutting down...
